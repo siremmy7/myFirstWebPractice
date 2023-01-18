@@ -1,0 +1,148 @@
+body  {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  background-color: #EAF6F6;
+  text-align: center;
+  color: #40514E;
+  padding: 0;
+}
+.Jilbotics_Logo {
+  height: 150px;
+  display: inline-block;
+  margin-right: 200px;
+  padding-left: 50px;
+}
+
+a {
+  margin: 100px 30px 0;
+  text-decoration: none;
+  padding: 15px 20px;
+  color:#EAF6F6;
+  border-radius: 15px;
+
+}
+a:hover {
+
+  background: rgba(173,218,203,0.9);
+  transition: 1s;
+  border: solid gray .5px;
+}
+.top-container  {
+  height: 170px;
+  background-color: turquoise;
+  border-bottom: solid white 1px;
+  display: block;
+  position: fixed;
+  width: 100%;
+}
+.middle-container {
+  padding-top: 170px;
+}
+.Agriculture-picture {
+  border: none;
+  background-color: none;
+  float: left;
+  height: 100%;
+  width: 25%;
+  padding-right: 40px;
+  border-radius: 150%;
+}
+.Education-picture {
+  border: none;
+  background-color: none;
+  float: left;
+  height: 100%;
+  width: 25%;
+  padding-right: 40px;
+  border-radius: 150%;
+}
+.Power-picture {
+  border: none;
+  background-color: none;
+  float: left;
+  height: 100%;
+  width: 25%;
+  padding-right: 40px;
+  border-radius: 150%;
+}
+.Investment-picture {
+  border: none;
+  background-color: none;
+  float: left;
+  height: 100%;
+  width: 25%;
+  padding-right: 40px;
+  border-radius: 150%;
+}
+.Real-Estate-picture {
+  border: none;
+  background-color: none;
+  float: left;
+  height: 100%;
+  width: 25%;
+  padding-right: 40px;
+  border-radius: 150%;
+}
+hr  {
+  margin: 100px auto;
+  width:5%;
+  border-top:dotted 10px gray;
+  border-bottom: none;
+}
+
+.Agriculture {
+  height: 170px;
+  width: 50%;
+  margin: 50px auto;
+}
+.Education {
+  height: 170px;
+  width: 50%;
+  margin: 50px auto;
+}
+.Power {
+  height: 170px;
+  width: 50%;
+  margin: 50px auto;
+}
+.Investment {
+  height: 170px;
+  width: 50%;
+  margin: 50px auto;
+}
+.Real-Estate {
+  height: 170px;
+  width: 50%;
+  margin: 50px auto;
+}
+p {
+  line-height: 2;
+  width: 50%;
+  margin:10px auto;
+}
+h1  {
+  margin: 100px auto;
+  width: 50%;
+}
+.Apply-here {
+  color: gray;
+  background-color: white;
+  border: solid gray .5px;
+}
+
+.bottom-container {
+  height: 100px;
+  background-color: turquoise;
+  border-top: solid white 1px;
+  margin-top: 100px;
+}
+
+.Jiltext  {
+  color: #EAF6F6;
+}
+
+h3  {
+  width: 50%;
+  margin:10px auto;
+
+}
